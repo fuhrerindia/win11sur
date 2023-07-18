@@ -18,6 +18,7 @@ sudo apt-get install gnome-shell-extensions
 gnome-extensions enable user-themes@gnome-shell-extensions.gcampax.github.com
 gsettings set org.gnome.shell.extensions.user-themes enabled true
 gsettings set org.gnome.desktop.interface gtk-theme "WhiteSur-Dark"
+gsettings set org.gnome.shell.theme "WhiteSur-Dark"
 gsettings set org.gnome.desktop.interface icon-theme "Win10Sur"
 gsettings set org.gnome.desktop.interface cursor-theme "McMojave Cursors"
 cp ./assets/wallpaper/* ~/.local/share/backgrounds/
