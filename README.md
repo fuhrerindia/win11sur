@@ -2,7 +2,10 @@
 Themes and Wallpaper installer for my personal use, this will make Ubuntu look like MacOS with Windows 11+MacOS Icons.
 ## Steps to Use
 Clone this repository in your machine or you can also download `.zip` and extract it.
-`git clone https://github.com/sinhapaurush/win11sur.git`
+```bash
+git clone https://github.com/sinhapaurush/win11sur.git
+```
+and then run installation with below commands.
 ```bash
 cd win11sur
 sudo chmod +x ./install.sh
